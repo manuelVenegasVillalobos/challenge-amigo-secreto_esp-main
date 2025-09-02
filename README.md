@@ -3,4 +3,4 @@ A web page with the function of adding a list of friends to randomly choose one 
 
 
 ## How to use it
-![Demo GIF](assests/Demo.gif)
+![Demo GIF](challenge-amigo-secreto_esp-main/assests/Demo.gif)
