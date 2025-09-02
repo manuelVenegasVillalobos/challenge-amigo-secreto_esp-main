@@ -3,7 +3,6 @@
 
 let friends = [] 
 let counterFriends = 0;
-let allFriends = "";
 
 
 
@@ -49,3 +48,4 @@ function secretFriend(){
     
     addText('resultado',messege);
 }
+
