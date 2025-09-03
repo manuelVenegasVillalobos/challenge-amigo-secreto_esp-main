@@ -35,7 +35,7 @@ function addFriend(){
 }
 
 function generateRandomNum(){
-    return Math.floor(Math.random()*counterFriends);
+    return Math.floor(Math.random()*friends.length);
 }
 
 
@@ -46,5 +46,6 @@ function secretFriend(){
     
     addText('resultado',messege);
 }
+
 
 
