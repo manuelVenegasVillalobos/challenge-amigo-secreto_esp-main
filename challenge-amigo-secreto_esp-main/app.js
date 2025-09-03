@@ -2,8 +2,6 @@
 
 
 let friends = [] 
-let counterFriends = 0;
-
 
 
 function cleanBox(element){
@@ -48,4 +46,5 @@ function secretFriend(){
     
     addText('resultado',messege);
 }
+
 
